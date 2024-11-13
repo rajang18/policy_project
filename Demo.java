@@ -1,3 +1,3 @@
 class rajesh{
-  System.out.println("hii")
+  int i=19;
   }
