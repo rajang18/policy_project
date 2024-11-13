@@ -1,1 +1,3 @@
-hii i am ravindra i am future superstar
+class rajesh{
+  System.out.println("hii")
+  }
